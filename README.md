@@ -1,1 +1,2 @@
 # employee-salary-prediction
+This project is a machine learning-based web application that predicts an employee's salary based on key features such as age, gender, qualification, job role, and years of experience. Built using Scikit-learn for the predictive model and Streamlit for the user interface, this app allows users (HRs, job seekers, analysts) to get real-time salary predictions through a simple web form.
